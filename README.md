@@ -2,6 +2,6 @@
   Contizador de seguros
 </h2>
 
-<center>
+<p align="center">
 ![Tests](https://github.com/EdsonLuiz/cotizador-de-seguros/workflows/Tests/badge.svg)
-</center>
+</p>
