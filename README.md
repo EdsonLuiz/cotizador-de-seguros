@@ -3,5 +3,5 @@
 </h2>
 
 <p align="center">
-![Tests](https://github.com/EdsonLuiz/cotizador-de-seguros/workflows/Tests/badge.svg)
+  <img src="https://github.com/EdsonLuiz/cotizador-de-seguros/workflows/Tests/badge.svg" alt="badge with test status">
 </p>
